@@ -7,14 +7,13 @@ Faz-se uso do pacote [axios](https://www.npmjs.com/package/axios) para efetuar a
 
 Baixar o projeto na pasta `front` do seu computador:
 ```
-git clone https://github.com/arleysouza/react-service.git front
+git clone https://github.com/brennorichard/Atividade1_Programa-o_Scripts
 ```
 Instalar as dependências:
 ```
-cd front
 npm i
 ```
-A aplicação estará na porta 3100. Comando para subir a aplicação:
+A aplicação estará na porta 3001. Comando para subir a aplicação:
 ```
 npm start
 ```
