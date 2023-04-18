@@ -1,4 +1,4 @@
-## React TS - Services
+## React TS - Loteria
 
 ### Instruções de uso
 
